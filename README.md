@@ -1,9 +1,9 @@
-🌟 Hello World! I'm Collins Ogbeide (@colinog)
+  🌟 Hello World! I'm Collins Ogbeide (@colinog)
 
-👀 Passionate about:
---Coding for real-world problem-solving
---Data analysis and visualization using R and Python
---Continuous learning and sharing knowledge
+  👀 Passionate about:
+  --Coding for real-world problem-solving
+  --Data analysis and visualization using R and Python
+  --Continuous learning and sharing knowledge
 
 🌱 Currently exploring:
 --Mastering Git and GitHub for version control
