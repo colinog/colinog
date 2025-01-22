@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @colinog
-- 👀 I’m interested in coding, data analytics, and visualization using Python and R
-- 🌱 I’m currently learning how to use GIT and GitHub
-- 💞️ I’m looking to collaborate on different aspects of coding to solve everyday problems
-- 📫 How to reach me: collinsogbeide@gmail.com & c.ogbeide@rptu.de
+🌟 Hello World! I'm Collins Ogbeide (@colinog)
 
-<!---
-colinog/colinog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Passionate about:
+	Coding for real-world problem-solving
+	Data analysis and visualization using R and Python
+	Continuous learning and sharing knowledge
+
+🌱 Currently exploring:
+	Mastering Git and GitHub for version control
+	Expanding skills in collaborative software development
+
+💞️ Open to collaboration on:
+	Projects that simplify everyday tasks through coding
+	Data-driven storytelling with visualizations
+	Community-driven coding challenges
+
+📫 Let's connect:
+	📧 collinsogbeide@gmail.com
+	🎓 c.ogbeide@rptu.de
